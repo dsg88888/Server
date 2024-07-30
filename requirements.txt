@@ -1,0 +1,6 @@
+fastapi
+jupyterlab
+scikit-learn
+pandas
+numpy
+bertopic
