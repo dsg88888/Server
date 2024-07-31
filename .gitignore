@@ -1,5 +1,5 @@
 .env
-package.ipynb
+package.py
 test.py
 .ipynb_checkpoints/
 hello.ipynb
