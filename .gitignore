@@ -1,5 +1,6 @@
 .env
-hello.ipynb
-test.py
+/workspaces/Test/package.py/workspaces/Test/test.pypackage.py
+/workspaces/Test/.ipynb_checkpoints
+/workspaces/Test/hello.ipynb
+/workspaces/Test/test.py
 package.py
-ipynb_checkpoints/
